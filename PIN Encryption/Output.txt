@@ -1,0 +1,13 @@
+Enter the no. of digits you want the pin should have: 
+6
+Enter four 6-digit numbers:
+ 556283 
+ 698123 
+ 757957 
+ 839685
+Generated pin is: 536123
+Enter any message:
+Very difficult to break
+
+Encrypted message is:
+AHXZFLKIODWOYWUCTHFN
